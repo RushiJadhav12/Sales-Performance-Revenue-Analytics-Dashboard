@@ -37,4 +37,18 @@ Interactive slicers and filters will be implemented for Region, Year of Order Da
 • Easier performance management and coaching through transparent employee rankings for both sales and delivery efficiency.  
 • Clear identification of high-profit product zones and better resource allocation for inventory and marketing efforts.  
 
+## **6.Tools and Technologies:**  
+• Tableau - Core tool for dashboard design and visualization.   
+• CSV/Excel - To extract and format structured sales data from source systems.  
+• Mapbox (inferred) - For rendering the geographic sales map.    
+• SharePoint/OneDrive - For shared collaboration and review cycles of the Tableau Workbook.  
+
+## **7.Risks and Challenges:**
+• Data Accuracy: Sales data may contain incomplete or inconsistent records regarding product categorization or employee assignment; data validation routines will be implemented.  
+• Integration Complexity: Combining multi-format data (e.g., sales data from ERP, delivery data from logistics system) can pose challenges in the ETL process.  
+• User Training: Decision-makers may need orientation to effectively use and interpret the detailed metrics, such as the two employee ranking charts.  
+• Scalability: Scaling the dashboard for a consistently growing volume of transaction data will require optimized Tableau calculations and efficient data model design to ensure speed and responsiveness.  
+
+## **8.Conclusion:**  
+This project will serve as a crucial step toward modernizing sales reporting by enabling data-based decisions. The Tableau dashboard will act as a live visual command center, giving visibility to sales patterns, employee dynamics, and product profitability across the business. The clear and interactive design  will ensure ease of use while delivering deep analytical power to drive revenue growth, resource optimization, and policy enforcement within the sales organization.  Ultimately, it fosters a data-driven culture for managing one of the business’s most vital assets: sales performance.  
 
